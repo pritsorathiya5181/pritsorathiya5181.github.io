@@ -1,0 +1,134 @@
+{
+  "landing": {
+    "firstName": "Prit",
+    "lastName": "Sorathiya",
+    "phoneNumber": "+91-9904088938",
+    "bio": "Many factors contribute to why I am interested in designing and developing computer software. My tech stack includes Java, Python, and Javascript. Python for server-side and scripting and Javascript for the frontend. I use Node.Js framework for server-side development and React for the frontend development. I have also worked with GraphQL.",
+    "email": "prit.sorathiya@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/prit-sorathiya-776374169",
+    "github": "https://github.com/pritsorathiya5181"
+  },
+  "experience": [
+    {
+      "position": "Software Developer Intern",
+      "organization": "D & K Group",
+      "aboutWork": "Contributing to D&K's open event server and frontend as an intern. Resolved numerous bugs and added new features to the company's projects.",
+      "fromDate": "December 2019",
+      "toDate": "April 2020"
+    },
+    {
+      "position": "Android Developer Intern",
+      "organization": "SRKay Consulting Group",
+      "aboutWork": "Worked on company's payment partner application and learned how to handle with server-side errors and continuously genrating entries.",
+      "fromDate": "June 2018",
+      "toDate": "July 2018"
+    }
+  ],
+  "education": [
+    {
+      "university": "Charotar University of Science and Technology (CHARUSAT)",
+      "degree": "Bachelor of Technology - Computer Engineering",
+      "gpa": "9.06 CGPA",
+      "fromDate": "August 2016",
+      "toDate": "Jun 2020"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Expense Tracking System",
+      "link": "https://github.com/pritsorathiya5181/react-web-projects",
+      "desc": "This is a React version of the vanilla JS Expense Tracker. It uses functional components with hooks and the context API Keep track of income and expenses. Add and remove items and save to local storage."
+    },
+    {
+      "title": "Dev-Connectivity Chat app",
+      "link": "https://github.com/pritsorathiya5181/react-web-projects",
+      "desc": "Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI."
+    },
+    {
+      "title": "StoryBooks",
+      "link": "https://github.com/pritsorathiya5181/react-web-projects",
+      "desc": "Create public and private stories from your life, this app uses Node.js/Express/MongoDB with Google OAuth for authentication"
+    },
+    {
+      "title": "Remote Desktop in Java",
+      "link": "https://github.com/pritsorathiya5181/",
+      "desc": "The main aim of this system is to provide remote access to the same network’s devices."
+    },
+    {
+      "title": "More Projects",
+      "link": "https://github.com/pritsorathiya5181/",
+      "desc": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "ReactJs"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "ReactNative"
+    },
+    {
+      "name": "HTML5 - CSS3"
+    }
+  ],
+  "interests": {
+    "paragraphOne": "Apart from being a web developer, I enjoy most of my time being outdoors with my friends, I enjoy mountain biking, free climbing, and kayaking.",
+    "paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
+  },
+  "awards": [
+    {
+      "awardDetail": "Runner up at Ahmedabad University Hackathon, Gujarat"
+    },
+    {
+      "awardDetail": "Software Engineering Virtual Internship (JPMorgan Chase & Co.)"
+    },
+    {
+      "awardDetail": "Class Representative in College (Whole 4 years of college )"
+    },
+    {
+      "awardDetail": "Cognizance (Tech Event) Coordinator"
+    },
+    {
+      "awardDetail": "NPTEL- Software Engineering"
+    },
+    {
+      "awardDetail": "NPTEL- Programming in C"
+    },
+    {
+      "awardDetail": "Coursera- Front-End Web UI Frameworks and Tools: Bootstrap 4"
+    },
+    {
+      "awardDetail": "Coursera- Java Programming: Solving Problems with Software"
+    },
+    {
+      "awardDetail": "Coursera- Java Programming: Arrays, Lists, and Structured Data"
+    },
+    {
+      "awardDetail": "Coursera- Programming Foundations with JavaScript, HTML and CSS"
+    },
+    {
+      "awardDetail": "Coursera- Front-End Web Development with React"
+    },
+    {
+      "awardDetail": "Coursera- Multiplatform Mobile App Development with React Native"
+    },
+    {
+      "awardDetail": "CISCO- CCNA Routing and Switching: Routing and Switching Essentials Module 2"
+    }
+  ]
+}
